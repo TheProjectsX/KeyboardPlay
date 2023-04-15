@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+}
+
+input{
+  outline: none;
+  display: none;
+  margin-inline: auto;
+}
