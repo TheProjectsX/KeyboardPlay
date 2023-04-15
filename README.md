@@ -1,2 +1,4 @@
 # KeyboardPlay
-A Surprise Repository!
+This is a Surprise Repository.
+
+You need to try it First to Know the Surprise! 😉
